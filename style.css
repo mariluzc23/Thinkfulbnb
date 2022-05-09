@@ -141,7 +141,7 @@ footer p {
     justify-content: space-between;
   }
 
-  header nav {
+  header nav ul {
     padding: 10px;
   }
 
@@ -163,10 +163,10 @@ footer p {
     flex-direction: column;
   }
 
-  .item label
-  , .item input 
-  , .item select 
-  , .item button{
+  .item label, 
+  .item input, 
+  .item select, 
+  .item button {
     display: flex;
     width: 100%
   }
