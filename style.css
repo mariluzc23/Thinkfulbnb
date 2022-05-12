@@ -105,7 +105,7 @@ form select,
 form input {
   margin-bottom: 20px;
   width: 65%;
-  text-align: right; 
+  text-align: left; 
 }
 
 form button {
